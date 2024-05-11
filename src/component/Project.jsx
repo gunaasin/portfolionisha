@@ -29,13 +29,13 @@ export const Project = () => {
     },
    
     {
-      title: "Old portfolio",
-      link: "https://portfolio-website-gunas-projects-2ae16aeb.vercel.app/",
+      title: "ATM security",
+      // link: "https://portfolio-website-gunas-projects-2ae16aeb.vercel.app/",
       thumbnail:po3,
     },
     {
-      title: "Game based learning",
-      link: "https://learncode-seven.vercel.app/",
+      title: "Hospital management system",
+      // link: "https://learncode-seven.vercel.app/",
       thumbnail:po2,
     },
     {
@@ -56,8 +56,8 @@ export const Project = () => {
     },
    
     {
-      title: "Game based learning",
-      link: "https://learncode-seven.vercel.app/",
+      title: "Hospital management system",
+      // link: "https://learncode-seven.vercel.app/",
       thumbnail:po2,
     },
     {
